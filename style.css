@@ -1,0 +1,39 @@
+body
+{
+background: url('photo.jpg');
+font-family: 'Trebuchet MS', Arial, sans-serif;
+color:#181818;
+}
+
+
+
+nav
+{
+display: inline-block;
+width: 740px;
+text-align: right;
+}
+
+nav ul
+{
+list-style-type: none;
+}
+
+
+nav li
+{
+isplday: inline-block;
+margin-right:25px;
+}
+
+nav
+{
+    font-size: 30px;
+
+    text-decoration: none;
+
+    isplday: inline-block;
+  
+}
+
+
